@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="summary"
+               path="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/Summary.html"/>
+   <appContext helpID="approach"
+               path="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/Approach.html"/>
+   <appContext helpID="activities"
+               path="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/Activities.html"/>
+   <appContext helpID="gap_analysis"
+               path="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/GapAnalysis.html"/>
+   <appContext helpID="AdoptionRoadmap"
+               path="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/AdoptionRoadmap.html"/>
+   <appContext helpID="concept_kf5_zmf_wcb"
+               path="oxy_ex-2/Sales/Proposals/aaGoldStandardProposalContent/Topics/EngagementDetails.html"/>
+   <appContext helpID="Timeline"
+               path="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/Timeline.html"/>
+</map>

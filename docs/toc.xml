@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="booktitle">  <span class="ph mainbooktitle">Siemens Healthineers Product Labeling</span>  </span></title>
+   <topic href="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/Summary.html" data-id="summary" wh-toc-id="summary-d66e52">
+      <title>Summary</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="summary"></resourceid>
+         <navtitle class="- topic/navtitle ">Summary</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Summary</linktext>
+      </topicmeta>
+      <topic href="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/Approach.html" data-id="approach" wh-toc-id="approach-d66e60">
+         <title>Approach</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="approach"></resourceid>
+            <navtitle class="- topic/navtitle ">Approach</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Approach</linktext>
+         </topicmeta>
+      </topic>
+   </topic>
+   <topic href="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/Activities.html" data-id="activities" wh-toc-id="activities-d66e68">
+      <title>Activities</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="activities"></resourceid>
+         <navtitle class="- topic/navtitle ">Activities</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Activities</linktext>
+      </topicmeta>
+      <topic href="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/GapAnalysis.html" data-id="gap_analysis" wh-toc-id="gap_analysis-d66e76">
+         <title>Gap analysis</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="gap_analysis"></resourceid>
+            <navtitle class="- topic/navtitle ">Gap analysis</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Gap analysis</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/AdoptionRoadmap.html" data-id="AdoptionRoadmap" wh-toc-id="AdoptionRoadmap-d66e84">
+         <title>Adoption roadmap</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="AdoptionRoadmap"></resourceid>
+            <navtitle class="- topic/navtitle ">Adoption roadmap</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Adoption roadmap</linktext>
+         </topicmeta>
+      </topic>
+   </topic>
+   <topic href="oxy_ex-2/Sales/Proposals/aaGoldStandardProposalContent/Topics/EngagementDetails.html" data-id="concept_kf5_zmf_wcb" wh-toc-id="concept_kf5_zmf_wcb-d66e92">
+      <title>Engagement details</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="concept_kf5_zmf_wcb"></resourceid>
+         <navtitle class="- topic/navtitle ">Engagement details</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Engagement details</linktext>
+      </topicmeta>
+      <topic href="oxy_ex-2/Sales/Proposals/Clients/SiemensHealthineers/Proposal/Timeline.html" data-id="Timeline" wh-toc-id="Timeline-d66e100">
+         <title>Timeline</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="Timeline"></resourceid>
+            <navtitle class="- topic/navtitle ">Timeline</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Timeline</linktext>
+         </topicmeta>
+      </topic>
+   </topic>
+   <topic href="javascript:void(0)" wh-toc-id="tocId-d66e109">
+      <title>Downloads </title>
+      <topic href="javascript:void(0)" format="pdf" wh-toc-id="tocId-d66e110">
+         <title>Proposal by Ryffine</title>
+      </topic>
+      <topic href="javascript:void(0)" format="pdf" wh-toc-id="tocId-d66e111">
+         <title>Prposal Overview Presentation</title>
+      </topic>
+   </topic>
+</toc>
