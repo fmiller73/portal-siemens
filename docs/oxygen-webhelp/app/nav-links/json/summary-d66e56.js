@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Approach","href":"oxy_ex-2\/Sales\/Proposals\/Clients\/SiemensHealthineers\/Proposal\/Approach.html","attributes": {"data-id":"approach",},"menu": {"hasChildren":false,},"tocID":"approach-d66e64","topics":[]}]});
